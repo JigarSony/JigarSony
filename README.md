@@ -5,19 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jigarsony" alt="jigarsony" /></a> </p>
 
-- BE CURIOUS FURIOUS FOR MIRACULOUS TREMENDOUS RESULT
+- Be Curious Furious for Miraculous Tremendous Result
 
 - :computer: I’m trying :man_pilot: to Learn :man_student: New Thing Every Day
 
-- 🔭 I’m currently working :man_office_worker: on Automation Test Analyst **Travel Domain**
+- 🔭 I’m currently working :man_office_worker: as a Automation Test Analyst in **Travel Domain**
 
 - 🌱 I’m currently learning **Nightwatch, Appium**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JigarSony/](https://github.com/JigarSony/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/JigarSony/)
 
-- 💬 Ask me about **Automation**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **sonijigar94@gmail.com**
+
+- Adapting Knowledge from **Everyone**
 
 - 📄 Know about my experiences [https://jigarsony.github.io/file/Jigar%20Soni-QA-Resume.pdf](https://jigarsony.github.io/file/Jigar%20Soni-QA-Resume.pdf)
 
