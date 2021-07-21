@@ -5,13 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jigarsony" alt="jigarsony" /></a> </p>
 
-- 🔭 I’m currently working on Protractor **Travel Domain**
+- BE CURIOUS FURIOUS FOR MIRACULOUS TREMENDOUS RESULT
+
+- :computer: I’m trying :man_pilot: to Learn :man_student: New Thing Every Day
+
+- 🔭 I’m currently working :man_office_worker: on Automation Test Analyst **Travel Domain**
 
 - 🌱 I’m currently learning **Nightwatch, Appium**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JigarSony/](https://github.com/JigarSony/)
 
-- 💬 Ask me about **Automation Testing**
+- 💬 Ask me about **Automation**
 
 - 📫 How to reach me **sonijigar94@gmail.com**
 
@@ -21,7 +25,7 @@
 <p align="left">
 <a href="https://dev.to/jigarsony" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jigarsony" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jigarsony10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jigarsony10" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jigar-sony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jigar-sony" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8034930/jigar-sony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jigar-sony" height="30" width="40" /></a>
 <a href="https://medium.com/@sonijigar94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sonijigar94" height="30" width="40" /></a>
 </p>
 
