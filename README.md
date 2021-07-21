@@ -9,7 +9,7 @@
 
 - :computer: I’m trying :man_pilot: to Learn :man_student: New Thing Every Day
 
-- 🔭 I’m currently working :man_office_worker: as a Automation Test Analyst in **Travel Domain**
+- 🔭 I’m currently working :man_office_worker: as Automation Test Analyst in **Travel Domain**
 
 - 🌱 I’m currently learning **Nightwatch, Appium**
 
