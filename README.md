@@ -21,7 +21,7 @@
 
 - Adapting Knowledge from **Everyone**
 
-- 📄 Know about my experiences [https://jigarsony.github.io/file/Jigar%20Soni-QA-Resume.pdf](https://jigarsony.github.io/file/Jigar%20Soni-QA-Resume.pdf)
+- 📄 Know about my experiences [Resume](https://jigarsony.github.io/file/Jigar%20Soni-QA-Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
