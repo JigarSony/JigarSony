@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working :man_office_worker: as Automation Test Analyst in **Travel Domain**
 
-- 🌱 I’m currently learning **Nightwatch, Appium**
+- 🌱 I’m currently learning **Appium**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/JigarSony/)
 
